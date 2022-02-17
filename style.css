@@ -84,7 +84,7 @@ a:hover, a:active {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 50px 20vw;
+    padding: 25px 20vw;
 }
 
 .column {
