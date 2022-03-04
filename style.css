@@ -43,12 +43,12 @@ footer article p {
 }
 
 a:link, a:visited {
-    color: #e7e7e7;
+    color: #ffffff;
     text-decoration: none;
 }
 
 a:hover, a:active {
-    color: #d5d5d5;
+    color: #eaeaea;
     text-decoration: none;
 }
 
@@ -117,4 +117,10 @@ a:hover, a:active {
 
 .footer-separator .shape-fill {
     fill: #FF5733;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
 }
