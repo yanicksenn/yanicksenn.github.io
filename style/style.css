@@ -59,6 +59,7 @@ a img {
     width: 16px;
     height: 16px;
     margin-right: 3px;
+    vertical-align: middle;
 }
 
 a:link, a:visited {
@@ -79,6 +80,7 @@ code {
     border-style: solid;
     border-radius: 7px;
     width: 100%;
+    max-width: 500px;
 }
 
 code pre {
@@ -89,4 +91,10 @@ code pre {
 
 h1 {
     font-size: 1.5em;
+    max-width: 500px;
+}
+
+p {
+    max-width: 500px;
+    line-height: 23px;
 }
